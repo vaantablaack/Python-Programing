@@ -1,0 +1,6 @@
+N=int(input('Enter the number'))
+print (N)
+print (2*N)
+print (3*N)
+print (4*N)
+print (5*N)
